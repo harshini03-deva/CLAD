@@ -1,2 +1,2 @@
 # CLAD
-Case studies that are done in my b tech
+Case studies that are done in my b-tech
