@@ -90,5 +90,7 @@ Java / PHP, MySQL, HTML/CSS, JavaScript
 **📬 Contact**
 
 Email: devaharshini0303@gmail.com
+
 LinkedIn: www.linkedin.com/in/deva-harshini-b7452b293
+
 GitHub: github.com/yourusername
